@@ -67,4 +67,5 @@
         "*.sln": "*.csproj"
     },
     "dotnet.defaultSolution": "PrvniPokus2.sln"
+    "dotnet.defaultSolution": "PrvniPokus.sln"
 }
