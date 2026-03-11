@@ -3,9 +3,12 @@ using UnityEngine;
 public class Knezova : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+void Start()
     {
         Debug.Log("Dobry den jsem johy ");
+        //Sem patří pozdrav
+        //Sem patří pozdrav
+        //Sem patří pozdrav
     }
 
     // Update is called once per frame
@@ -13,5 +16,6 @@ public class Knezova : MonoBehaviour
     {
 
         
+        //Sem nepatří pozdrav
     }
 }
