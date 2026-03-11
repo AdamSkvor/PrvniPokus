@@ -5,9 +5,7 @@ public class Hajkova : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
 void Start()
     {
-        //Sem patří pozdrav
-        //Sem patří pozdrav
-        //Sem patří pozdrav
+   //změna
     }
 
     // Update is called once per frame
