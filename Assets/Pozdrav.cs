@@ -7,6 +7,7 @@ void Start()
     {
         Debug.Log("Všechny zdravím");
        Debug.Log("Tato zpráva byla na githubu dřív");
+       //Nový komentář
     }
 
     // Update is called once per frame
