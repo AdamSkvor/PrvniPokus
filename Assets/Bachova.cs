@@ -11,6 +11,6 @@ public class Bachova : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        //Sem nepatří pozdrav
     }
 }
