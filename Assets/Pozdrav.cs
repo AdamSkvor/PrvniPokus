@@ -6,6 +6,7 @@ public class pohyb : MonoBehaviour
 void Start()
     {
         Debug.Log("Všechny zdravím");
+       Debug.Log("Tato zpráva byla na githubu dřív");
     }
 
     // Update is called once per frame
