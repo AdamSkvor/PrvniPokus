@@ -7,7 +7,7 @@ public class Libalova : MonoBehaviour
 void Start()
     {
         Debug.Log("ahoj lidi tady zuzka");
-        //změna
+        //změnasdtx
     }
 
     // Update is called once per frame
