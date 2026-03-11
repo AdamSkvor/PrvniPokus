@@ -6,7 +6,7 @@ public class Lokvenc : MonoBehaviour
 void Start()
     {
         //Sem patří pozdrav
-       Debug.Log ("Ahoj - Lukáš Lokvenc")
+        Debug.Log ("Ahoj - Lukáš Lokvenc")
         //Sem patří pozdrav
     }
 
